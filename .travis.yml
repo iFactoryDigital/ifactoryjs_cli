@@ -19,5 +19,5 @@ deploy:
     secure: WEFqB7BDxizSUA5FFS7+Eax32Ka0R8hlVmu8kQKg4WLmWdjbj6+ANrtJzXxvWUilElYbANNBD0mlIN9bwCdoODOSWvXligHo+GxaWNDLKRPWEetF2Vxs1Jf6iNqTsLnzoRlNfBY8TOV85p3gO3E3tc99fKF7srBxyWUKy3EB2nrgfYG0scmdlRZhHXRDih5qo57tzp5keFIZ+KtI3f9cG/wjXLYGgoeAYXhkp4mHLcrCivWSgzYS5//pI//l+76vI9OLZlpQfrZO7QFJRx6ZJlNCxCPzmR8SBms4ZV6Dldw7y1zlx3Oh1sNMr3h3xX0WphIw9FkJsNRFskVBlCBZwA9Igjnu3GK9Alm504aFFpetPdyp2cnkVayCwE72PNzd8flqS0dTOIGO9aUzBHqeG6ybkxrhlAg2M2rtEdt6hGyX8fGvuvEJdtMlVuUYsuWV9+rvRLNbZ0DEFEZNt9Tqc3lMWTVGllenz2HvVFg+yYpZ5vJGFcmzHjx3yig0Z99Ns3aGlBNK5tUtxGXP/9P3Y+rRnosSebnisHWwAKNJlWBWZT2sqtZTWqwiY3MQjqrfJGVefGYY0dmhYtYMPpV9mWtB5vqjqiiJ+jq7/s/tXU9F0WxlvV8VFeNKQRvS73WsjPDLMDs/P+W0nnc3T3vEYleshfrPUPPxo+PDrW/8gbo=
   on:
     tags: true
-    repo: eden-js/cli
+    repo: ifactorydigital/ifactoryjs_cli
     branch: master

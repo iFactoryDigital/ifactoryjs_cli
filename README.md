@@ -1,8 +1,8 @@
 # EdenJS
-[![TravisCI](https://travis-ci.com/eden-js/cli.svg?branch=master)](https://travis-ci.com/eden-js/cli)
-[![Issues](https://img.shields.io/github/issues/eden-js/cli.svg)](https://github.com/eden-js/cli/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eden-js/cli)
-[![Awesome](https://img.shields.io/badge/awesome-true-green.svg)](https://github.com/eden-js/cli)
+[![TravisCI](https://travis-ci.com/ifactorydigital/ifactoryjs_cli.svg?branch=master)](https://travis-ci.com/ifactorydigital/ifactoryjs_cli)
+[![Issues](https://img.shields.io/github/issues/ifactorydigital/ifactoryjs_cli.svg)](https://github.com/ifactorydigital/ifactoryjs_cli/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ifactorydigital/ifactoryjs_cli)
+[![Awesome](https://img.shields.io/badge/awesome-true-green.svg)](https://github.com/ifactorydigital/ifactoryjs_cli)
 [![Discord](https://img.shields.io/discord/583845970433933312.svg)](https://discord.gg/5u3f3up)
 
 Awesome isomorphic NodeJS skeleton for structured applications. Just have a look at the "bundles" that make up an EdenJS application.
@@ -99,7 +99,7 @@ We use [SemVer](http://semver.org/) for versioning.
 * **Jack Taylor** - *Developer* - [OhYea777](https://github.com/OhYea777)
 * **Mike Mackenzie** - *Documentation* / *Developer* - [veb](https://github.com/veb)
 
-See also the list of [contributors](https://github.com/eden-js/cli/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ifactorydigital/ifactoryjs_cli/contributors) who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
