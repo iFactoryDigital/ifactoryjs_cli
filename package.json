@@ -3,7 +3,7 @@
   "description": "Web Application Framework built on Express.js and Redis",
   "version": "1.7.5",
   "bin": {
-    "edenjs": "./index.js"
+    "ifactoryjs": "./index.js"
   },
   "bugs": {
     "web": "https://github.com/ifactorydigital/ifactoryjs_cli/issues"
