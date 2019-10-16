@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 /* eslint-disable consistent-return */
 // Require class dependencies
-import { DbModel } from '@edenjs/model';
+import { DbModel } from '@ifactoryjs/model';
 
 // Require local dependencies
 import eden from 'eden';

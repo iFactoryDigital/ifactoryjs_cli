@@ -10,7 +10,7 @@ import Events from 'events';
 
 // Require local dependencies
 const { Console } = require('winston').transports;
-import EdenModel from '@edenjs/model';
+import EdenModel from '@ifactoryjs/model';
 import { Logger } from 'winston';
 
 // Require local dependencies

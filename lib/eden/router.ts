@@ -10,7 +10,7 @@ import responseTime from 'response-time';
 import cookieParser from 'cookie-parser';
 
 // Require class dependencies
-import SessionStore from '@edenjs/session-store';
+import SessionStore from '@ifactoryjs/session-store';
 
 // Require local dependencies
 import eden from 'eden';
