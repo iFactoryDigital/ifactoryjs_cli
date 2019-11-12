@@ -19,6 +19,19 @@ export default format.printf((info) => {
   const d = new Date();
 
   // Set timestamp strings
+  let yy = `${d.getFullYear()}`;
+  
+  // Set timestamp strings
+  let mm = `${d.getMonth()}`;
+  
+  mm = parseInt(mm) === 12 ? 1 : parseInt(mm) + 1;
+
+  // Set timestamp strings
+  let dd = `${d.getDay()}`;
+  
+  dd = dd.length === 1 ? `0${dd}` : dd;
+  
+  // Set timestamp strings
   let h = `${d.getHours()}`;
 
   // Augment hours
@@ -37,7 +50,7 @@ export default format.printf((info) => {
   s = s.length === 1 ? `0${s}` : s;
 
   // Set time
-  message += `[${chalk.grey(`${h}:${m}:${s}`)}] `;
+  message += `[${chalk.grey(`${yy}-${mm}-${dd} ${h}:${m}:${s}`)}] `;
 
   // Set thread type
   if (global.isCLI) {
